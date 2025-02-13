@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NilangaChandimal
 - 👀 I’m interested in Developing
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning MERN Stack
 - 👨‍🎓 I’m an Undergraduate at Eastern University
 - 📫 How to reach me nilangachandimal1111@gmail.com
 - ⚡ Fun fact: Call me as Nilanga
