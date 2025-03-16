@@ -8,7 +8,7 @@
 
 ## 💼 Professional Overview
 
-Passionate **System Developer** with expertise in AI, Web Development, and Cloud Computing. Currently pursuing my undergraduate degree at Eastern University while continuously expanding my technical skills in the MERN stack and beyond.
+Passionate **System Developer** with expertise in AI, Web Development, and Cloud Computing. I have completed my undergraduate degree in Computer Science from Eastern University and continue to expand my technical skills in the MERN stack and beyond.
 
 ## 🔍 About Me
 
@@ -66,6 +66,7 @@ Passionate **System Developer** with expertise in AI, Web Development, and Cloud
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCB2B?style=flat-square&logo=firebase&logoColor=white)
 
 ### AI & Data Science
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
