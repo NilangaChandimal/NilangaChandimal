@@ -21,8 +21,8 @@ Dynamic and results-driven **Software Engineer** with a B.Sc. (Hons) in Computer
 
 ## 🛠️ Work Experience
 
-- **Software Engineer @ WebCeylon (PVT) LTD (2026 Feb - Present):** Leading the development of enterprise-grade ERP, HR, CRM, and Payroll systems. Currently developing the "eHRIS" mobile application. Implemented automated CI/CD pipelines and complex third-party APIs.
-- **Software Engineer @ Ryefield Books - Freelance (2025 Jul - Present):** Developing and maintaining large-scale API integrations for global multi-vendor e-commerce marketplaces (Amazon, eBay, Temu). Managing server-side deployments and background automation jobs.
+- **Software Engineer @ WebCeylon (PVT) LTD (2026 Jan - Present):** Leading the development of enterprise-grade ERP, HR, CRM, and Payroll systems. Currently developing the "eHRIS" mobile application. Implemented automated CI/CD pipelines and complex third-party APIs.
+- **Software Engineer @ Ryefield Books - Freelance (2025 Jun - Present):** Developing and maintaining large-scale API integrations for global multi-vendor e-commerce marketplaces (Amazon, eBay, Temu). Managing server-side deployments and background automation jobs.
 - **Trainer & System Developer Internship @ eSupport Technology (2024 Dec - 2025 Dec):** Integrated secure payment gateways and localized SMS/Email OTP systems. Contributed to dynamic frontend interfaces and automated server maintenance.
 
 ## 🧪 Research Experience
