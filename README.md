@@ -1,8 +1,8 @@
 # 👋 Nilanga Chandimal | Software Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nilangachandimal&label=Profile%20views&color=0e75b6&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nilanga_Chandimal-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/nilanga-chandimal-19852a269)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-000?style=flat-square&logo=vercel&logoColor=white)](https://nilangachandimal-portfolio.netlify.app/)
+[![Linkedln](https://img.shields.io/badge/Linkedln-Nilanga_Chandimal-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/nilanga-chandimal-19852a269)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-000?style=flat-square&logo=vercel&logoColor=white)](https://nilanga.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nilangachandimal1111@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0770714587-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/0770714587)
 
@@ -102,7 +102,7 @@ Dynamic and results-driven **Software Engineer** with a B.Sc. (Hons) in Computer
 
 <div align="center">
   <a href="https://linkedin.com/in/nilanga-chandimal-19852a269" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedln-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://kaggle.com/nilangachandimal" target="_blank">
     <img src="https://img.shields.io/badge/-Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank">
